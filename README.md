@@ -1,2 +1,2 @@
 # tallerPOOclima
-El impacto climático del fenómeno de El Niño, hay que gestionar la red de estaciones meteorológicas.
+El impacto climático del fenómeno de El Niño, gestionando la red de estaciones meteorológicas.
